@@ -1,0 +1,4 @@
+1. recently-published dataset of human pre-implantation embryos (the Petropoulus dataset)
+Data: https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3929/
+Example: https://www.sciencedirect.com/science/article/pii/S167202291830439X#bb0160
+SavePath: /Volumes/bachergroup/TrajectoryEvaluation_Method/DATA/sc_real_collection/1_EmbryoDataset
